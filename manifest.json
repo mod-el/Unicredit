@@ -1,0 +1,8 @@
+{
+	"name": "Unicredit",
+	"description": "Unicredit payments",
+	"version": "0.0.1",
+	"dependencies": {
+		"Core": ">=2.8.6"
+	}
+}
